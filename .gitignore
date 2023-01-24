@@ -267,3 +267,4 @@ CMakeSettings.json
 # ------------------------------------------------------------------------ 
 build-synfig-*
 CMakeLists.txt.user
+*.valgrind
